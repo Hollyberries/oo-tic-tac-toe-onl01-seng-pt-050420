@@ -113,6 +113,6 @@ class TicTacToe
     end
   end
     
-    newTicTacToe.new
+    new_game = TicTacToe.new
     
 end
