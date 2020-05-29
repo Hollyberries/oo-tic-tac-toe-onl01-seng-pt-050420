@@ -7,12 +7,10 @@ class TicTacToe
   attr_accessor :new, :play
   
   
-  def initialize(new_game)
-   @new_game = new_game
-   end
-   
-   def play
-   @play = play
+  def self
+  
+  end
+  
    
    
   
