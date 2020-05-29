@@ -4,12 +4,15 @@ require_relative '../lib/tic_tac_toe.rb'
 
 
 class TicTacToe
-  attr_accessor :new
+  attr_accessor :new, :play
   
   
   def initialize(new_game)
    @new_game = new_game
    end
+   
+   def play
+   @play = play
    
    
   
