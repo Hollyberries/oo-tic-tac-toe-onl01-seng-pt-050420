@@ -113,5 +113,6 @@ class TicTacToe
     end
   end
     
+    newTicTacToe.new
     
 end
