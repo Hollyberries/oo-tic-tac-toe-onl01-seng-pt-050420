@@ -112,15 +112,6 @@ class TicTacToe
        puts "Cat's Game!"
     end
   end
-  
-    def self.create(game)
-     
-      
-    end
-    
-    
-    
-    end
     
     
 end
